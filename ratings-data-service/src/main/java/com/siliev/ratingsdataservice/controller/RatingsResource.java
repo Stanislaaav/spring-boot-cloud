@@ -1,4 +1,4 @@
-package com.siliev.ratingsdataservice.resources;
+package com.siliev.ratingsdataservice.controller;
 
 import com.siliev.ratingsdataservice.model.Rating;
 import com.siliev.ratingsdataservice.model.UserRating;

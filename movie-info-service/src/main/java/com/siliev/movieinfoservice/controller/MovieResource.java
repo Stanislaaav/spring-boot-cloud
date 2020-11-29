@@ -1,4 +1,4 @@
-package com.siliev.movieinfoservice.resources;
+package com.siliev.movieinfoservice.controller;
 
 import com.siliev.movieinfoservice.models.Movie;
 import com.siliev.movieinfoservice.models.MovieSummary;

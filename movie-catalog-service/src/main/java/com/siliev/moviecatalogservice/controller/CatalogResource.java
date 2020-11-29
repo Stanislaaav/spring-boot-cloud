@@ -1,15 +1,9 @@
-package com.siliev.moviecatalogservice.resources;
+package com.siliev.moviecatalogservice.controller;
 
-import com.netflix.discovery.converters.Auto;
-import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 import com.siliev.moviecatalogservice.models.CatalogItem;
-import com.siliev.moviecatalogservice.models.Movie;
-import com.siliev.moviecatalogservice.models.Rating;
 import com.siliev.moviecatalogservice.models.UserRating;
 import com.siliev.moviecatalogservice.services.MovieInfo;
 import com.siliev.moviecatalogservice.services.UserRatingInfo;
-import java.util.Arrays;
-import org.apache.catalina.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
