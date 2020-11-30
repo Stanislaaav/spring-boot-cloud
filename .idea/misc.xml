@@ -12,6 +12,7 @@
         <option value="$PROJECT_DIR$/movie-catalog-service/pom.xml" />
         <option value="$PROJECT_DIR$/discovery-server/pom.xml" />
         <option value="$PROJECT_DIR$/gateway-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/microservices-trough-messaging/pom.xml" />
       </list>
     </option>
   </component>

@@ -13,7 +13,7 @@ import org.springframework.web.client.RestTemplate;
 @EnableEurekaClient
 @EnableCircuitBreaker
 @EnableHystrixDashboard
-public class MovieCatalogServiceApplication {
+public class  MovieCatalogServiceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MovieCatalogServiceApplication.class, args);

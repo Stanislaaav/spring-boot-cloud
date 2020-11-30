@@ -5,6 +5,8 @@
     <file url="file://$PROJECT_DIR$/discovery-server/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/gateway-zuul/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/gateway-zuul/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices-trough-messaging/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices-trough-messaging/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/movie-catalog-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/movie-catalog-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/movie-info-service" charset="UTF-8" />
